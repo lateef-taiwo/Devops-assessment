@@ -1,0 +1,9 @@
+# # Use the official MySQL image as the base
+# FROM mysql:5.7
+
+# # Set environment variables to configure the MySQL instance
+# ENV MYSQL_ROOT_PASSWORD=root_password
+# ENV MYSQL_DATABASE=your_database_name
+
+# # Expose the MySQL port
+# EXPOSE 3306
